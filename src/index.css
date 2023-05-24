@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'ARCO';
+  src: url('./fonts/ARCOTypography.woff2') format('woff2'),
+       url('./fonts/ARCOTypography.woff') format('woff'),
+       url('./fonts/ARCO.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+}

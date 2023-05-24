@@ -1,0 +1,12 @@
+.board{
+    display: none;
+    flex-direction: column;
+}
+
+.board.show{
+    display: flex;
+}
+
+.row {
+    display: flex;
+}
